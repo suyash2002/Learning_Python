@@ -1,2 +1,2 @@
 # Learning_Python
-Start From the Stratch
+Start From the Scratch
