@@ -1,5 +1,5 @@
 # Learning_Python
-Start From the Stratch
+Start From the Scratch
 
 ### Follow this - https://www.w3schools.com/python/
 
